@@ -1,3 +1,4 @@
+/* Sets initial box values and background color */
 * {
     box-sizing: border-box;
     padding: 0;
@@ -8,6 +9,7 @@ body {
     background-color: #d9dcd6;
 }
 
+/* Styles the header */
 header {
     padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -24,6 +26,7 @@ header h1 .seo {
     color: #d9dcd6;
 }
 
+/* Navigation bar styling */
 nav {
     padding-top: 15px;
     margin-right: 20px;
@@ -46,6 +49,7 @@ a {
     text-decoration: none;
 }
 
+/* Sets background image and styling */
 figure {
     height: 800px;
     width: 100%;
@@ -55,6 +59,7 @@ figure {
     background-position: center;
 }
 
+/* Styling for main element section */
 main {
     width: 75%;
     display: inline-block;
@@ -83,6 +88,7 @@ p {
     font-size: 16px;
 }
 
+/* Determines positioning of images in main */
 .float-left {
     float: left;
     margin-right: 25px;
@@ -93,6 +99,7 @@ p {
     margin-left: 25px;
 }
 
+/*Styling of aside element */
 aside {
     margin-right: 20px;
     padding: 20px;
@@ -121,6 +128,7 @@ aside {
     max-width: 150px;
 }
 
+/* Footer styling */
 footer {
     padding: 30px;
     clear: both;
