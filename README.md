@@ -8,9 +8,9 @@ This project was a code refactor for our client, Horiseon. Horiseon was looking 
 
 No installation is necessary! Follow the following links to the github repository and live site.
 
-Github repository: 
+Github repository: https://github.com/kurtriecken/Horiseon-Site-Refactor
 
-Deployed site: 
+Deployed site: https://kurtriecken.github.io/Horiseon-Site-Refactor/
 
 ## Usage
 
